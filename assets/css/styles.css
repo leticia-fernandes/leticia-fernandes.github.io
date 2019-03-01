@@ -1,0 +1,190 @@
+.navbar {
+  border-bottom: 5px solid #b2129f;
+  background-color: #09b2a5;
+}
+
+.navbar-brand {
+  font-family: 'Averia Libre';
+  color: white !important;
+  font-weight: bold;
+  font-size: 1.5em;
+}
+
+.navbar-brand img {
+  width: 25px;
+}
+
+.navbar-light .navbar-nav .nav-link {
+  font-family: 'Averia Libre';
+  color: white;
+  font-size: 1.2em;
+  padding-left: 20px;
+  outline: none;
+}
+
+.navbar-light .navbar-nav .nav-link:hover {
+  color: black;
+}
+
+.sectionsite {
+  margin-top: 60px;
+  margin-bottom: 80px;
+}
+
+.bio {
+  border-left: 5px dashed #ffd72b;
+  font-family: 'Actor';
+  padding-left: 30px;
+  padding-right: 25px;
+  margin-left: 5px;
+  margin-top: 20px;
+  color: #444444;
+  font-size: 1.1em;
+}
+
+.sectionsite h1, .sectionsite h2, .sectionsite h3, .sectionsite h4, .sectionsite h5 {
+  font-family: 'Actor';
+}
+
+.skills hr {
+  border: 2px solid #ff00e0;
+  width: 200px;
+  margin-top: 0;
+  margin-bottom: 30px;
+}
+
+.skills h1 {
+  font-weight: bold;
+  color: #14ccbd;
+  margin-bottom: 0;
+}
+
+.skills button, .skills button:hover, .skills button:focus {
+  font-family: 'Actor';
+  font-size: 1.2em;
+  background-color: #ffd72b !important;
+  padding: 10px;
+  border-radius: 5px;
+  font-weight: 600;
+  margin: 15px;
+  color: black !important;
+  border: 0 !important;
+  outline: none !important;
+  box-shadow: none !important;
+}
+
+.projects h1 {
+  font-family: 'Actor';
+  font-weight: bold;
+  color: #b2129f;
+}
+
+.projects img {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  padding: 10px;
+  border: 4px solid rgba(255,215,43,0.38);
+  border-radius: 5px;
+}
+
+.margintop {
+  margin-top: 35px;
+}
+
+.projects .description {
+  border-left: 5px dashed #ccc;
+}
+
+.projects .description a {
+  color: #09b2a5;
+  font-family: 'Actor';
+  font-weight: bold;
+  font-size: 1.4em;
+}
+
+.projects .description .sub a:hover {
+  color: #ff00e0;
+}
+
+.projects .description > p {
+  color: #444444;
+  font-family: 'Actor';
+  font-size: 1.1em;
+}
+
+.projects .description .sub a {
+  color: gray;
+  font-family: 'Actor';
+  font-size: 1em;
+  text-decoration: none;
+}
+
+.projects hr {
+  border: 2px solid #14ccbd;
+  width: 250px;
+  margin-top: 0;
+  margin-bottom: 30px;
+}
+
+.seeallprojects button, .seeallprojects button:hover, .seeallprojects button:focus {
+  font-family: 'Actor';
+  font-size: 1.2em;
+  background-color: #14ccbd !important;
+  padding: 20px;
+  border-radius: 5px;
+  font-weight: 600;
+  margin: 15px;
+  color: black !important;
+  border: 0 !important;
+  outline: none !important;
+  box-shadow: none !important;
+}
+
+.seeallprojects button:hover {
+  font-family: 'Actor';
+  font-size: 1.2em;
+  background-color: #14ccbd !important;
+  padding: 20px;
+  border-radius: 5px;
+  font-weight: 600;
+  margin: 15px;
+  color: black !important;
+  border: 0 !important;
+  outline: none !important;
+  box-shadow: none !important;
+  text-decoration: underline;
+}
+
+.contact h1 {
+  font-weight: bold;
+  font-family: 'Actor';
+  color: #09b2a5;
+  border-bottom: 3px dashed #ff00e0;
+}
+
+.contact i {
+  color: #ffd72b;
+  border-bottom: 2px solid #ffd72b;
+}
+
+.footer {
+  height: 50px;
+  background-color: #09b2a5;
+  width: 100%;
+  border-top: 5px solid #b2129f;
+  padding: 10px;
+  margin-bottom: 0;
+  color: white;
+  font-family: 'Actor';
+  font-weight: bold;
+  font-size: 1.1em;
+}
+
+.footer p {
+  margin: 0;
+}
+
+.contact a, .contact a:visited, .contact a:hover, .contact a:link{
+  color: #212529;
+  text-decoration: none;
+}
+
